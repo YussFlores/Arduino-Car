@@ -22,26 +22,22 @@ This is an improved version of my past cellphone-controlled arduino car, featuri
 
 ### Car
 
-+------------+---------------+
-| Component  | Arduino Pin   |
-+------------+---------------+
-| L298N ENA  | D5            |
-| L298N IN1  | D6            |
-| L298N IN2  | D7            |
-| L298N IN3  | D10           |
-| L298N IN4  | D9            |
-| L298N ENB  | D11           |
-| HC-05 RX   | D3            |
-| HC-05 TX   | D2            |
-+------------+---------------+   
+| Componente   | Pin Arduino |
+|--------------|-------------|
+| L298N ENA    | D5          |
+| L298N IN1    | D6          |
+| L298N IN2    | D7          |
+| L298N IN3    | D10         |
+| L298N IN4    | D9          |
+| L298N ENB    | D11         |
+| HC-05 RX     | D3          |
+| HC-05 TX     | D2          |   
 
 ### Remote control
 
-+------------+---------------+
-| Component  | Arduino Pin   |
-+------------+---------------+
-| Joystick X | A7            |
-| Joystick Y | A4            |
-| HC-05 RX   | D10           |
-| HC-05 TX   | D11           |
-+------------+---------------+   
+| Componente   | Pin Arduino |
+|--------------|-------------|
+| Joystick X   | A7          |
+| Joystick Y   | A4          |
+| HC-05 RX     | D10         |
+| HC-05 TX     | D11         |   
