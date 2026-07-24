@@ -1,4 +1,7 @@
 # Arduino-Bluetooth-Car
+
+![Arduino Car](Car.jpg)
+
 Arduino RC car, controlled by a physical Bluetooth remote controller and using only two motors
 This is an improved version of my past cellphone-controlled Arduino car, featuring now a remote controller because it's cooler
 
